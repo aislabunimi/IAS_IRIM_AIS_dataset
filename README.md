@@ -15,15 +15,35 @@
 # Datasets and Technical Details
 
 ## Dataset Description
-![Dataset overview](https://raw.githubusercontent.com/aislabunimi/IAS_IRIM_AIS_dataset/refs/heads/main/images/put_lab.jpg)
-![Dataset overview](https://raw.githubusercontent.com/aislabunimi/IAS_IRIM_AIS_dataset/refs/heads/main/images/ias_lab.JPG)
+<div style="display: flex; gap: 2rem; justify-content: center; align-items: flex-start;">
+
+  <figure style="margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/aislabunimi/IAS_IRIM_AIS_dataset/refs/heads/main/images/ias_lab.JPG"
+      alt="IAS Lab Overview"
+      style="height: 250px; object-fit: contain;"
+    />
+    <figcaption><strong>Figure 1.</strong> IAS Lab Overview</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img
+      src="https://raw.githubusercontent.com/aislabunimi/IAS_IRIM_AIS_dataset/refs/heads/main/images/put_lab.jpg"
+      alt="PUT Lab Overview"
+      style="height: 250px; object-fit: contain;"
+    />
+    <figcaption><strong>Figure 2.</strong> PUT Lab Overview</figcaption>
+  </figure>
+
+</div>
+
+
 *Dataset are collected in two different environments (IAS and IRIM lab), one empty and one cluttered environment.*
 
-The datasets consist of multiple recorded loops obtained in real-world indoor environment with low-cost quadrupeds equipped with low-end sensors. 
-The dataset are recorded in two real-world environment. The the same setting of the robot has been used in both environments.
-**IAS LAB** trajectories are simpler and collected in an empty environment (first figure).
-**IRIM Lab** are more complex as they have b
-een collected in a cluttered environment (second figure).
+The datasets consist of multiple recorded loops obtained in real-world indoor environment with low-cost quadrupeds equipped with low-end sensors.
+The same setting of the robot has been used in both environments.
+**IAS LAB** trajectories are simpler and collected in an empty environment (Figure 1).
+**IRIM Lab** are more complex as they have been collected in a cluttered environment (Figure 2).
 
 The robot used for testing is a [MAB robotics](https://www.mabrobotics.pl/) Silver Badger, which is a versatile quadruped robot with a flexible spine.
 
