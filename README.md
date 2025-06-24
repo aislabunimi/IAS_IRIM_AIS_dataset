@@ -115,12 +115,7 @@ Each dataset contains a `reference/` subdirectory with:
 
 ## Downloads
 
-<span style="color:red">TODO: probably the easiest way here is to upload all data in one of ours onedrive folder</span>
-
-* [All training data](https://comrob-ds.fel.cvut.cz:9001/api/v1/buckets/cb-slam/objects/download?prefix=data/train/) (52 GB, \~27 GB download)
-* [extrinsics](https://comrob-ds.fel.cvut.cz:9001/api/v1/buckets/cb-slam/objects/download?prefix=data/train/extrinsics/) (16 kB)
-* [shellby-0225-train-lab](https://comrob-ds.fel.cvut.cz:9001/api/v1/buckets/cb-slam/objects/download?prefix=data/train/shellby-0225-train-lab/) (5.5 GB, \~3.3 GB download)
-* [shellby-0225-train-loop1](https://comrob-ds.fel.cvut.cz:9001/api/v1/buckets/cb-slam/objects/download?prefix=data/train/shellby-0225-train-loop1/) (47 GB, \~24 GB download)
+* [Training data - IAS LAB](https://unimi2013-my.sharepoint.com/:f:/g/personal/matteo_luperto_unimi_it/EixVFC1xQKZLn9FxnvQvoYMBC6WyZAWBMWDr-w_-KOT67A?e=b9FqsE) (\~25 GB download)
 
 ---
 
