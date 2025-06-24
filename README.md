@@ -15,27 +15,27 @@
 # Datasets and Technical Details
 
 ## Dataset Description
-<div style="display: flex; gap: 2rem; justify-content: center; align-items: flex-start;">
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/aislabunimi/IAS_IRIM_AIS_dataset/refs/heads/main/images/ias_lab.JPG"
+        alt="IAS Lab Overview"
+        height="250"
+      /><br>
+      <sub><strong>Figure 1.</strong> IAS Lab Overview</sub>
+    </td>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/aislabunimi/IAS_IRIM_AIS_dataset/refs/heads/main/images/put_lab.jpg"
+        alt="PUT Lab Overview"
+        height="250"
+      /><br>
+      <sub><strong>Figure 2.</strong> PUT Lab Overview</sub>
+    </td>
+  </tr>
+</table>
 
-  <figure style="margin: 0; text-align: center;">
-    <img
-      src="https://raw.githubusercontent.com/aislabunimi/IAS_IRIM_AIS_dataset/refs/heads/main/images/ias_lab.JPG"
-      alt="IAS Lab Overview"
-      style="height: 250px; object-fit: contain;"
-    />
-    <figcaption><strong>Figure 1.</strong> IAS Lab Overview</figcaption>
-  </figure>
-
-  <figure style="margin: 0; text-align: center;">
-    <img
-      src="https://raw.githubusercontent.com/aislabunimi/IAS_IRIM_AIS_dataset/refs/heads/main/images/put_lab.jpg"
-      alt="PUT Lab Overview"
-      style="height: 250px; object-fit: contain;"
-    />
-    <figcaption><strong>Figure 2.</strong> PUT Lab Overview</figcaption>
-  </figure>
-
-</div>
 
 
 *Dataset are collected in two different environments (IAS and IRIM lab), one empty and one cluttered environment.*
