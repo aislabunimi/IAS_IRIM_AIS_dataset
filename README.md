@@ -8,21 +8,22 @@
 * [Data Structure and File Organization](#data-structure-and-file-organization)
   * [Reference Contents](#reference-contents)
 * [Downloads](#downloads)
-* [Examples and Teasers](#examples-and-teasers)
+* [Examples](#examples)
 
-  * [Video Teasers](#video-teasers)
+
 
 # Datasets and Technical Details
 
 ## Dataset Description
-![Dataset overview](https://lh4.googleusercontent.com/b1hIjRfaMLGZJNZ62ZLkU3p7J_dA10PzSscAiQMnESTr9JpWI7GCiE4nSdMbaz36LeJ9oPfwruqZwfXWlwpopoRpHXj83EftUzoDb9tVSXiVj3p1byOTb-9oRbGnEyqXDqh3jaW0jYLHxEG_D7Eq4_5EpqWtNlNuBl92fLxFUARmDxDVeb79YA=w1280)
-![Dataset overview](https://lh4.googleusercontent.com/rH5nzNJbMmamNz2kdl1Tx4UcJ0qSwq14_Zxpx0KsKX5SnlGhG3sdV9PV7dO5F7JnzPxo5_lKMASPw3slXC1xYSI0MW3tgqj8nzcAfw2gu0V78d4Y2gPP_k6kTwixG0dA6_8svcJI6MW8AnlQoGx3SfkRy5zr3oGvKvcjQgFelUc7LGmnEL5zGQ=w1280)
+![Dataset overview](https://raw.githubusercontent.com/aislabunimi/IAS_IRIM_AIS_dataset/refs/heads/main/images/put_lab.jpg)
+![Dataset overview](https://raw.githubusercontent.com/aislabunimi/IAS_IRIM_AIS_dataset/refs/heads/main/images/ias_lab.JPG)
 *Dataset are collected in two different environments (IAS and IRIM lab), one empty and one cluttered environment.*
 
 The datasets consist of multiple recorded loops obtained in real-world indoor environment with low-cost quadrupeds equipped with low-end sensors. 
 The dataset are recorded in two real-world environment. The the same setting of the robot has been used in both environments.
 **IAS LAB** trajectories are simpler and collected in an empty environment (first figure).
-**IRIM Lab** are more complex as they have been collected in a cluttered environment (second figure).
+**IRIM Lab** are more complex as they have b
+een collected in a cluttered environment (second figure).
 
 The robot used for testing is a [MAB robotics](https://www.mabrobotics.pl/) Silver Badger, which is a versatile quadruped robot with a flexible spine.
 
@@ -119,23 +120,12 @@ Each dataset contains a `reference/` subdirectory with:
 
 ---
 
-## Examples and Teasers
+## Examples
 
 We provide a reference SLAM pipeline which is described [in this repository](https://github.com/dyumanaditya/quad-stack). It contains a simulated navigation stack for the same robot setting that can be deployed in two virtual environments. Full description of the setup can be found [here](https://sites.google.com/view/low-cost-quadruped-slam).
-![IASLabel](https://lh5.googleusercontent.com/b59i84zvyObRSNG6i7yxO5GKjMXqGchbsgyLxGC2noLueo6nMp-AqXL6htj6xY-dSz3jXOcpIMJq_xX_47WCWRzxf_MMhToN47iUP6nEGvMUBzieacdwNt_RQatpf4G09MXcW_B05Ng6q33M5yviduxTf3YyUw7-N_5jx-NDNNtOmS3BCYYYNQ=w1280)
+![IASLabel](https://github.com/aislabunimi/IAS_IRIM_AIS_dataset/blob/main/images/legend_14font.png?raw=true)
 *Example of IAS Lab Data*
-![IAS_traj](https://lh3.googleusercontent.com/eiFiPLa-4O6cVSHXcW0VCTzKlCT_O3Jhn2WSB7oSa_Gr7zXZnDXvLHhRj968JJ4cud2ZYmEYt6ptQrBdHttbcUY2M0KZ1A7Hh-NDucOzgJ0xrkZ2LzbODDEx90cweF4Z-hujFj2GWuI80O8YRe9BS_E4fIUqOQKwDbeMyDJTIRFxAT_ghd-qDA=w1280)
+![IAS_traj](https://github.com/aislabunimi/IAS_IRIM_AIS_dataset/blob/main/images/combined_traj_ias.png?raw=true)
 *Example of IRIM Lab Data
-![RIM_traj](https://lh5.googleusercontent.com/IG9eylizrzGqkP_WqGijEQEagay-b9-9lcZSWkzs2i4eTVK8ikEj3JRMgYnh5nXUb4yXNUUzq7YXuA53mTpgw5e4QiFgu5M7-aTgv6irrjP_HhY9GWRKcpj-eyu69BIca7ObbjzUVSFieiUm1SKg1nKFATEhnKBOF-bNAXnA2HLPUgCJb08PUQ=w1280)
+![RIM_traj](https://github.com/aislabunimi/IAS_IRIM_AIS_dataset/blob/main/images/sb_irim_trajs.png?raw=true)
 
-### Video Teasers
-
-#### Train Dataset
-
-[![Train teaser](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://comrob-ds.fel.cvut.cz:9000/cb-slam/media/videos/shellby-0225-train-loop1-teaser.mp4)
-
-#### Test Datasets
-
-[![Test loop 1](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://comrob-ds.fel.cvut.cz:9000/cb-slam/media/videos/shellby-0225-test-loop1-teaser.mp4)
-
-[![Test loop 2](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://comrob-ds.fel.cvut.cz:9000/cb-slam/media/videos/shellby-0225-test-loop2-teaser.mp4)
