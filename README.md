@@ -46,9 +46,9 @@ The same setting of the robot has been used in both environments.
 - **IAS LAB** trajectories are simpler and collected in an empty environment (Figure 1).
 - **IRIM Lab** are more complex as they have been collected in a cluttered environment (Figure 2).
 
-The robot used for testing is a [MAB robotics](https://www.mabrobotics.pl/) Silver Badger, which is a versatile quadruped robot with a flexible spine.
+The robot used for testing is a [MAB robotics](https://www.mabrobotics.pl/) Silver Badger, which is a versatile quadruped robot with an actuated spine.
 
-The dataset contain also millimeter-precision ground truth robot position obtained with an Optitrack recording device. 
+The dataset contain millimeter-precision ground truth robot position and orientation obtained with an Optitrack motion capture system. 
 
 In this setting SLAM is particularly challenging due to the fast and jerky motion of quadruped robots, combined with the complex nature of the environment and of the availability cheap low-end sensors to cope.
 
