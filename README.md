@@ -64,13 +64,13 @@ In this setting SLAM is particularly challenging due to the fast and jerky motio
 
 <span style="color:red">TODO: update here this, we can use a few good IAS Run for Training and the IRIM ones and the one where there is some loss of data for testing,</span>
 ### IRIM runs
-* **IRIM_Lab_1** (31.24 m, 1260°) Wandering around the lab at moderate speeds
-* **IRIM_Lab_2** (X m) I have some issue with copying it
+* **IRIM_Lab_1** (31.24 m, 1260°) Wandering around the lab at a moderate speed
+* **IRIM_Lab_2** (35.29 m, 1901°) Wandering around the lab at a moderate speed but spining quite fast from time to time
 * **IRIM_Lab_3** (7.02 m, 419°) Short run with intensive turns
-* **IRIM_Lab_4** (27.02 m, 1338°) Wandering around the lab at moderate speeds
-* **IRIM_Lab_5** (X m, X°)
-* **IRIM_Lab_6** (23.6 m, 825°) Wandering around the lab at high speeds
-* **IRIM_Lab_7** (56.56 m, 2325°) Wandering around the lab at high speeds
+* **IRIM_Lab_4** (27.02 m, 1338°) Wandering around the lab at a moderate speed
+* **IRIM_Lab_5** (17.39 m, 1131°) Wandering around the lab at a moderate speed, with some people moving calmly
+* **IRIM_Lab_6** (23.6 m, 825°) Wandering around the lab at high speed
+* **IRIM_Lab_7** (56.56 m, 2325°) Wandering around the lab at high speed
 
 
 
