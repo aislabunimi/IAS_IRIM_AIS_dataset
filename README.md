@@ -125,6 +125,7 @@ Each dataset contains a `reference/` subdirectory with:
 ## Downloads
 
 * [Training data - IAS LAB](https://unimi2013-my.sharepoint.com/:f:/g/personal/matteo_luperto_unimi_it/EixVFC1xQKZLn9FxnvQvoYMBC6WyZAWBMWDr-w_-KOT67A?e=b9FqsE) (\~25 GB download)
+* [Testing data - IRIM LAB](https://putpoznanpl-my.sharepoint.com/:u:/g/personal/piotr_kicki_put_poznan_pl/EdJdzhMnoElIhxlqO_YjXAYBv0WoMuphl5mmkJTq9u88HQ?e=qPER9q) (\~24GB download)
 
 ---
 
